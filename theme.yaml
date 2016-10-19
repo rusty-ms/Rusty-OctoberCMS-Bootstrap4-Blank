@@ -1,5 +1,5 @@
 name: 'Rusty Bootstrap 4 Blank'
-description: "A blank Bootstrap theme that has -\r\nBootstrap 4 Alpha 3: http://blog.getbootstrap.com/2016/07/27/bootstrap-4-alpha-3/\r\nFont-Awesome 4.6.3: http://fontawesome.io/\r\nJquery 3.1.0: https://jquery.com/ \r\nTether 1.3.3 (required by Bootstrap 4): http://tether.io/\r\nAnd some example pages to get you started!"
+description: "A blank Bootstrap theme that has -\r\nBootstrap 4 Alpha 5: http://blog.getbootstrap.com/\r\nFont-Awesome 4.6.3: http://fontawesome.io/\r\nJquery 3.1.0: https://jquery.com/ \r\nTether 1.3.3 (required by Bootstrap 4): http://tether.io/\r\nAnd some example pages to get you started!"
 author: Rusty
 homepage: 'http://rusty.ms'
 code: ''
