@@ -1,7 +1,7 @@
 # Details
 
-This is an OctoberCMS template basic and blank based on Bootstrap 4 Alpha v5. I am wanting to use it for a new project and couldn't find a template already made, so I thought I'd start a blank basic one to share with the community.  Unfortunately, I'm very busy, so this template is provided as-is with no warranty nor support for Bootstrap, Jquery, or OctoberCMS theme questions. . Bootstrap files, logos are property of: 
-http://v4-alpha.getbootstrap.com/about/history/ 
+This is an OctoberCMS template basic and blank based on Bootstrap 4 Alpha v6. I am wanting to use it for a new project and couldn't find a template already made, so I thought I'd start a blank basic one to share with the community.  Unfortunately, I'm very busy, so this template is provided as-is with no warranty nor support for Bootstrap, Jquery, or OctoberCMS theme questions. . Bootstrap files, logos are property of: 
+http://v4-alpha.getbootstrap.com/about/history/
 
 I do plan on updating it as Bootstrap updates their code. I hope you enjoy. In the documentation tab and in the /home example page, I have included a ton of links to help you get started!
 
