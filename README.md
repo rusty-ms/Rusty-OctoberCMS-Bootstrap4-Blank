@@ -14,8 +14,8 @@ Future plans:
 
 Links to documentation to help you get started!
 
-1. http://v4-alpha.getbootstrap.com/getting-started/introduction/
-2. http://v4-alpha.getbootstrap.com/examples/
+1. https://getbootstrap.com/docs/4.0/getting-started/introduction/
+2. http://getbootstrap.com/examples/
 3. http://getbootstrap.com/components/
 4. https://jquery.com/
 5. http://tether.io/
