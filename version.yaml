@@ -4,3 +4,4 @@
 1.0.4: Imported Bootstrap 4 Alpha v5 files - included all css files this time left v3 files in project
 1.0.6: Imported Bootstrap 4 Alpha v6 files - inlucded previous v3 and v5 css so people could revert if needed. Under layout, search for 4-a-6 and replace it with 4-a-5 or 3.
 1.0.7: Imported Bootstrap 4 Beta v3 files - included all previous bootstrap files if you need to revert.  Under layout, search for 4-b-3 and replace it with 4-a-5 or 3 or 6.
+1.4.2.1: Imported Bootstrap 4.2.1 Dist - Removing previous versions due to size.
